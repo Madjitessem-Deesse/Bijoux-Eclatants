@@ -20,7 +20,7 @@ Un site vitrine élégant pour une marque de bijoux artisanaux.
 - Menu mobile avec bouton hamburger
 
 ## Maquette
-![Maquette du site](maquette/maquette-bijoux.png)
+![Maquette du site](maquette/bijoux.png)
 
 
 
